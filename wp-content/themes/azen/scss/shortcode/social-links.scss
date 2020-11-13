@@ -1,0 +1,15 @@
+.physcode_social_links {
+	margin: 0 -10px;
+	li {
+		list-style: none;
+		display:    inline-block;
+		padding:    10px;
+		a {
+			font-size: 18px;
+			opacity:   0.7;
+			&:hover {
+				opacity: 1;
+			}
+		}
+	}
+}

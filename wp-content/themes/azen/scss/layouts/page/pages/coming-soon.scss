@@ -1,0 +1,86 @@
+/* Coming Soon Section  */
+.comming-soon-page {
+	background-repeat:   no-repeat;
+	background-position: center center;
+	@include background-size(cover);
+	max-height:          100vh;
+	height:              100vh;
+	#masthead {
+		display:  block;
+		position: absolute;
+		width:    100%;
+		z-index:  999;
+		.affix-top, .affix {
+			background: transparent;
+			.menu-desktop-inner {
+				@include breakpoint(1024) {
+					.menu-mobile-effect {
+						.hamburger-inner {
+							background: #ffffff;
+							&:before, &:after {
+								background: #ffffff;
+							}
+						}
+					}
+				}
+				.main-menu {
+					@include breakpoint_minwidth(1025) {
+						.navmenu {
+							li {
+								a {
+									color: #ffffff;
+									&:before {
+										background: transparent !important;
+										width:      0;
+										height:     0;
+									}
+								}
+								.sub-menu {
+									li {
+										a {
+											color: #cecece;
+											&:hover {
+												color: #ffffff;
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+			.header-right {
+				.header-wishlist {
+					a {
+						color: #ffffff !important;
+					}
+				}
+				.widget_shopping_cart {
+					.cart-items-number {
+						color: #ffffff;
+					}
+				}
+			}
+			.physc_search {
+				.search-toggler {
+					color: #ffffff;
+				}
+				.search-overlay {
+					.closeicon {
+						right: 70px;
+					}
+					.modal-search-content {
+						padding: 0 70px;
+					}
+				}
+			}
+		}
+
+	}
+	.comming-soon {
+
+	}
+}
+
+/* End Coming Soon Section */

@@ -1,0 +1,163 @@
+
+.page-not-found {
+	@include background-size(cover);
+	background-repeat:   no-repeat;
+	background-position: center center;
+	background-image:    url('images/404_page.jpg');
+	min-height:          600px;
+
+	.page-detail {
+		min-height: 100vh;
+		@extend display-flex;
+		@include align-items(center);
+
+		.page-inner {
+			text-align: center;
+			width:      800px;
+			margin:     0 auto;
+			transform:  translate(-50%, -50%);
+			top:        55%;
+			position:   absolute;
+			left:       50%;
+
+			.title {
+				font-weight: bold;
+			}
+
+			h2 {
+				font-size:      48px;
+				color:          #ffffff;
+				padding-bottom: 5px;
+				margin-bottom:  20px;
+
+				&:before {
+					background: #fff;
+				}
+			}
+
+			p {
+				padding:     0 0 20px;
+				font-size:   14px;
+				color:       #ffffff;
+				font-weight: bold;
+			}
+
+			.au-btn-white {
+				i {
+					padding-left: 10px;
+				}
+			}
+
+			.btn-small {
+				padding:        20px 40px;
+				border:         none;
+				background:     #fff;
+				color:          #111111;
+				font-size:      14px;
+				font-weight:    bold;
+				text-transform: uppercase;
+
+				&:hover {
+					color: #fff;
+				}
+			}
+		}
+	}
+}
+
+.error404 {
+	.wrapper-container {
+		background: transparent;
+
+		.container {
+			position:      absolute;
+			left:          0;
+			right:         0;
+			padding-left:  0;
+			padding-right: 0;
+			#masthead {
+				display: block;
+
+				.affix-top, .affix {
+					background: transparent;
+
+					.menu-desktop-inner {
+						@include breakpoint(1024) {
+							.menu-mobile-effect {
+								.hamburger-inner {
+									background: #ffffff;
+
+									&:before, &:after {
+										background: #ffffff;
+									}
+								}
+							}
+						}
+
+						.main-menu {
+							@include breakpoint_minwidth(1025) {
+								.navmenu {
+									li {
+										a {
+											color: #ffffff;
+
+											&:before {
+												background: transparent !important;
+												width:      0;
+												height:     0;
+											}
+										}
+
+										.sub-menu {
+											li {
+												a {
+													color: #cecece;
+
+													&:hover {
+														color: #ffffff;
+													}
+												}
+											}
+										}
+									}
+								}
+							}
+						}
+					}
+
+					.header-right {
+						.header-wishlist {
+							a {
+								color: #ffffff !important;
+							}
+						}
+
+						.widget_shopping_cart {
+							.cart-items-number {
+								color: #ffffff;
+							}
+						}
+					}
+
+					.physc_search {
+						.search-toggler {
+							color: #ffffff;
+						}
+
+						.search-overlay {
+							.closeicon {
+								right: 70px;
+							}
+
+							.modal-search-content {
+								padding: 0 70px;
+							}
+						}
+					}
+				}
+
+			}
+		}
+
+	}
+}

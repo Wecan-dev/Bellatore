@@ -1,0 +1,567 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: BuilderPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-03 03:05+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: svn/wp/theme-plugins/physc-builder/physc-builder.php:217
+msgid ""
+"<strong>PhyscBuilders</strong> plugin supports for <strong>Visual Composer, "
+"Elementor</strong>. Please install and activate one of the page builders."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/builders/class-bp-builders.php:58
+msgid "Extra Class"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/tax-meta-class/tax-meta-class.php:441
+msgid "Remove Image"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/tax-meta-class/tax-meta-class.php:443
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:342
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:105
+msgid "Upload Image"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:336
+msgid "Icon type"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:340
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:517
+msgid "None"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:341
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:351
+msgid "Font Awesome"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:364
+msgid "Font awesome library."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:369
+msgid "Upload icon"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:372
+msgid "Select an image to upload"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:397
+msgid "Visible Items"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:406
+msgid "Tablet Items"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:415
+msgid "Mobile Items"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:463
+msgid "All Category"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:477
+msgid "Select"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:478
+msgid "Normal"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:479
+msgid "Bold"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:480
+msgid "100"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:481
+msgid "200"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:482
+msgid "300"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:483
+msgid "400"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:484
+msgid "500"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:485
+msgid "600"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:486
+msgid "700"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:487
+msgid "800"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:488
+msgid "900"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:500
+msgid "Select tag"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:501
+msgid "h2"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:502
+msgid "h3"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:503
+msgid "h4"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:504
+msgid "h5"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:505
+msgid "h6"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:518
+msgid "Capitalize"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:519
+msgid "Uppercase"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:520
+msgid "Lowercase"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:537
+msgid "Extra class"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/abstracts/abstract-config.php:540
+msgid "Add extra class for element."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/class-wc-widget-cart.php:85
+msgid "Title:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/class-wc-widget-cart.php:92
+msgid "Hide if cart is empty"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:29
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:56
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:45
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:132
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:50
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:55
+msgid "Title"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:34
+msgid "Limit"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:39
+msgid "Order"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:41
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:144
+msgid "DESC"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:42
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:143
+msgid "ASC"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:46
+msgid "Display"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:48
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:131
+msgid "Random"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:49
+msgid "Popular"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/list-post.php:50
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:130
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:85
+msgid "Date"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/search.php:7
+msgid "A search form for your site."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/search.php:31
+msgid "Search Here ..."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/search.php:31
+msgid "Search for:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:7
+msgid "A widget that displays your social icons"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:100
+msgid "Facebook Url:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:105
+msgid "Twitter Url:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:110
+msgid "Instagram Url:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:115
+msgid "Pinterest Url:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:120
+msgid "Google Plus Name:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:125
+msgid "Tumblr Url:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/widgets/social.php:130
+msgid "Youtube Url:"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/builders/elementor/class-pb-el.php:74
+#: svn/wp/theme-plugins/physc-builder/inc/builders/visual-composer/class-pb-vc-shortcode.php:122
+msgid "Physc Builder"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/builders/elementor/class-pb-el-mapping.php:106
+msgid "https://your-link.com"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:29
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/class-el-products.php:33
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-cat/tpl/products-cat.php:37
+msgid "Products"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:30
+msgid "Display products"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:44
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:45
+msgid "Layout"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:47
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:48
+msgid "Layout 1"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:48
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:49
+msgid "Layout 2"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:49
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:50
+msgid "Layout 3"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:50
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:51
+msgid "Layout 4"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:65
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:52
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:57
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:62
+msgid "Element tag"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:82
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:67
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:72
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:77
+msgid "Title color"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:103
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-cat/config.php:44
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-showcase/config.php:57
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:74
+msgid "Category"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products/config.php:137
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-showcase/config.php:91
+msgid "Number of products to show"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-cat/config.php:29
+msgid "Category Products"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-cat/config.php:30
+msgid "Display category products"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-cat/class-el-products-cat.php:33
+msgid "Products_Cat"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-showcase/config.php:29
+msgid "Products showcase"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-showcase/config.php:30
+msgid "Display showcase products"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/woocommerce/products-showcase/class-el-products-showcase.php:33
+msgid "Products Showcase"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:29
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/class-el-posts.php:33
+msgid "Posts"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:30
+msgid "Display list posts"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:81
+msgid "Number of posts"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:88
+msgid "Item on row"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:96
+msgid "Show post date"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:111
+msgid "Show author"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:127
+msgid "Sort"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:134
+msgid "Choose Sort"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:140
+msgid "Order By"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/posts/config.php:146
+msgid "Choose Order By"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:28
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:43
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/class-el-testimonials.php:33
+msgid "Testimonials"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:29
+msgid "Display a testimonials box."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:48
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:93
+msgid "Name"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:50
+msgid "John Doe"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:56
+msgid "Image"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:63
+msgid "Website"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:71
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:101
+msgid "Info"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:73
+msgid "Founder"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:78
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:79
+msgid "Content"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/testimonials/config.php:81
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:82
+msgid ""
+"This is my first time to consult in this hospital and I’m lucky I got a "
+"perfect doctor who takes care of me since day one of my consultation, until "
+"the day of my surgery."
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:29
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/class-el-about-us.php:33
+msgid "About Us"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:30
+msgid "Display an about us html"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:44
+msgid "Upload Image Left"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:86
+msgid "Signature Image"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:95
+msgid "Catherine Shaw"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/about-us/config.php:103
+msgid "Director"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:29
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/class-el-countdown.php:33
+msgid "Countdown"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:30
+msgid "Display countdown"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:44
+msgid "Text before title"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:49
+msgid "Text color"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/countdown/config.php:91
+msgid "Upload Background Image"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/class-el-banner-html.php:33
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:29
+msgid "Banner HTML"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:30
+msgid "Display an banner"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:59
+msgid "Text align"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:62
+msgid "Left"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:63
+msgid "Right"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:64
+msgid "Center"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:70
+msgid "Text 1"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:77
+msgid "Text 1 color"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:84
+msgid "Backgound Text 1 color"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:92
+msgid "Text 2"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:99
+msgid "Text 2 color"
+msgstr ""
+
+#: svn/wp/theme-plugins/physc-builder/inc/modules/general/banner-html/config.php:131
+msgid "Text Button color"
+msgstr ""
+
+#. Name of the plugin
+msgid "Physcode Builder"
+msgstr ""
+
+#. Description of the plugin
+msgid "Full of features for page builders: Visual Composer, Elementor"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://physcode.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Physcode"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://physcode.com"
+msgstr ""

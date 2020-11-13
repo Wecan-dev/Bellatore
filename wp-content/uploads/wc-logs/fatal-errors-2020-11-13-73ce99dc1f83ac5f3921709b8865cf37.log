@@ -1,0 +1,2 @@
+2020-11-13T11:18:17+00:00 CRITICAL Cannot redeclare wordpress_importer_init() (previously declared in /var/www/html/bellatore/wp-content/plugins/wordpress-importer/wordpress-importer.php:51) en /var/www/html/bellatore/wp-content/plugins/physc-builder/inc/importer/wordpress-importer.php en la línea 1322
+

@@ -1,0 +1,54 @@
+/* End Our Story Section */
+
+/* Gallery Section */
+.gallery-about-section.section-box {
+	padding-top: 50px;
+}
+
+.gallery-about-section {
+	.gallery-content {
+		padding: 0 7.5px;
+		.images {
+			margin:   0 -7.5px 15px;
+			position: relative;
+			.overlay {
+				background: rgba(0, 0, 0, 0.2);
+			}
+			&:hover {
+				.overlay {
+					opacity: 1;
+				}
+			}
+			.gallery-zoom {
+				.gallery-elements {
+					position: absolute;
+					width:    100%;
+					height:   100%;
+					top:      0;
+					left:     0;
+					cursor:   pointer;
+					z-index:  99;
+				}
+			}
+		}
+	}
+}
+
+/* End Gallery Section */
+
+/* Our Team Section */
+.our-team-page.our-team-about.section-box {
+	padding: 7px 0 118px;
+}
+
+/* End Our Team Section */
+
+/* Testimonials Section */
+.testimonials-hp-azen.testimonials-about-us {
+	background: #f7f7f7;
+	.testimonials-content {
+		background: transparent;
+	}
+}
+
+/* End Testimonials Section */

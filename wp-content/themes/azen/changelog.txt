@@ -1,0 +1,8 @@
+/*version 1.0.2 -  */
+- Updated out of date file WooCommcerce
+- Updated plugin Revolution Slider to last version
+
+/*version 1.0.1 -  */
+- Updated import for demo 2,3,4,5,6
+- Added: Change Style of icon add withlist
+/*version 1.0.0 -  */

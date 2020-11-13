@@ -1,0 +1,237 @@
+/* Deal Off Section */
+.deal-hp-2 {
+	.deal-content {
+		@include background-size(cover);
+		background-position: center center;
+		background-repeat:   no-repeat;
+		text-align:          center;
+		position:            relative;
+		color:               #ffffff;
+
+		p {
+			font-size:   17px;
+			font-weight: 300;
+			color:       #ffffff;
+
+			b {
+				font-weight: 600;
+				color:       #ff6666;
+			}
+		}
+
+		.special-heading {
+			padding-top:   13px;
+			margin-bottom: 70px;
+
+			&:before {
+				background-color: #fff;
+			}
+		}
+
+		.wrap-countdown {
+			@extend display-flex;
+			@include align-items(center);
+			@include justify-content(center);
+			line-height: 1.67;
+
+			.countdown-section {
+				margin:     0 15px;
+				padding:    5px 0 25px 0;
+				display:    inline-block;
+				background: transparent;
+				text-align: center;
+				width:      100px;
+				position:   relative;
+
+				.countdown-amount {
+					margin:      0;
+					padding:     0;
+					font-size:   70px;
+					display:     block;
+					line-height: 1.2;
+					font-weight: 600;
+				}
+
+				.countdown-period {
+					font-size:   17px;
+					padding:     0;
+					line-height: 1.2;
+					display:     block;
+				}
+			}
+		}
+
+		.shop {
+			padding-top: 70px;
+
+			.btn-small {
+				padding:        13px 30px;
+				background:     #fff;
+				border-color:   #fff;
+				text-transform: uppercase;
+				font-weight:    500;
+
+				&:hover {
+					background:   #111;
+					border-color: #111;
+				}
+			}
+
+			i {
+				display: none;
+			}
+		}
+
+	}
+
+	@include breakpoint(767) {
+		.deal-content {
+			padding: 0;
+
+			.wrap-countdown {
+				.countdown-section {
+					margin: 0 15px 20px 15px;
+					width:  110px;
+
+					.countdown-amount {
+						font-size: 60px;
+					}
+				}
+			}
+
+			.shop {
+				padding-top: 40px;
+			}
+
+			.special-heading {
+				margin-bottom: 45px;
+			}
+		}
+	}
+}
+
+/* End Deal Off Section  */
+
+/* Deal list product*/
+.list-sale-1 {
+	.list-sale-content {
+		.sc-list-sale {
+			position: relative;
+			.item {
+				text-align: center;
+				.product-image {
+					margin-bottom: 5px;
+					.onsale {
+						display: none;
+					}
+					.box-hover {
+						display: none;
+					}
+				}
+				.wrap-countdown {
+					background: #f8f8f8;
+					width:      100%;
+					padding:    15px 0;
+					margin-top: 5px;
+					.countdown-section {
+						width:        25%;
+						max-width:    25%;
+						display:      inline-block;
+						padding:      0 5px;
+						border-right: 1px solid #ebebeb;
+						text-align:   center;
+						.countdown-amount {
+							display:     block;
+							font-size:   18px;
+							color:       #111111;
+							line-height: 1;
+							margin-bottom: 5px;
+							font-weight: 700;
+						}
+						.countdown-period {
+							display:     block;
+							font-size:   12px;
+							color:       #777777;
+							line-height: 1;
+							font-weight: 700;
+						}
+						&:last-child {
+							border-right: none !important;
+						}
+					}
+				}
+				.woocommerce-loop-product_title {
+					text-align: center;
+					margin-top: 10px;
+					margin-bottom: 15px;
+					a {
+
+						font-size: 18px;
+					}
+				}
+				.price {
+					.woocommerce-Price-amount {
+						padding: 4px 10px;
+					}
+					span {
+						font-size: 14px;
+ 						color:     #ffffff;
+					}
+					del {
+						margin-right: 10px;
+						color:        #ffffff;
+					}
+				}
+			}
+			.owl-nav {
+				display: block;
+				.owl-prev {
+					position:       absolute;
+					top:            40%;
+					right:          101%;
+					border:         1px solid #ebebeb;
+					overflow:       hidden;
+					z-index:        9999999999;
+					font-size:      11px;
+					letter-spacing: 3px;
+					color:          #999999;
+					padding:        5px 15px !important;
+					cursor:         pointer;
+					transform:      rotate(-90deg);
+					&:hover {
+						background: #111111;
+						color:      #ffffff !important;
+						border:     1px solid #111111;
+					}
+				}
+				.owl-next {
+					position:       absolute;
+					top:            40%;
+					left:           101%;
+					border:         1px solid #ebebeb;
+					overflow:       hidden;
+					z-index:        9999999999;
+					font-size:      11px;
+					letter-spacing: 3px;
+					color:          #999999;
+					padding:        5px 15px !important;
+					cursor:         pointer;
+					transform:      rotate(90deg);
+					&:hover {
+						background: #111111;
+						color:      #ffffff !important;
+						border:     1px solid #111111;
+					}
+				}
+				@media screen and (max-width: 1300px) {
+					.owl-prev, .owl-next {
+						display: none !important;
+					}
+				}
+			}
+
+		}
+	}
+}
+
+/* end Deal list product*/

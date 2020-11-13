@@ -1,0 +1,1092 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-20 10:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: svn/wp/Theme/azen/404.php:17
+msgid "# 404 PAGE"
+msgstr ""
+
+#: svn/wp/Theme/azen/404.php:18
+msgid "Oops ! Page you are looking for does not exist."
+msgstr ""
+
+#: svn/wp/Theme/azen/404.php:19
+msgid "Back to Home"
+msgstr ""
+
+#: svn/wp/Theme/azen/comments.php:32
+msgid "Leave a comment"
+msgstr ""
+
+#. 1: number of comments
+#: svn/wp/Theme/azen/comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "Comment (%1$s)"
+msgid_plural "Comments (%1$s)"
+msgstr[0] ""
+msgstr[1] ""
+
+#: svn/wp/Theme/azen/comments.php:53 /svn/wp/Theme/azen/comments.php:67
+msgid "Older Comments"
+msgstr ""
+
+#: svn/wp/Theme/azen/comments.php:54 /svn/wp/Theme/azen/comments.php:68
+msgid "Newer Comments"
+msgstr ""
+
+#: svn/wp/Theme/azen/comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: svn/wp/Theme/azen/header.php:47
+#: svn/wp/Theme/azen/page-templates/comming-soon.php:31
+msgid "Close"
+msgstr ""
+
+#: svn/wp/Theme/azen/footer.php:27
+msgid "TOP"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:168
+msgid "Share "
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:171
+msgid "#facebook"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:174
+msgid "#twitter"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:178
+msgid "#pinterset"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:181
+msgid "#google"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:284
+msgid "View cart"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/woocommerce.php:298
+#: svn/wp/Theme/azen/woocommerce/checkout/review-order.php:27
+#: svn/wp/Theme/azen/woocommerce/checkout/review-order.php:106
+msgid "Total"
+msgstr ""
+
+#. If there are characters in your language that are not supported
+#. by chosen font(s), translate this to 'off'. Do not translate into your own language.
+#: svn/wp/Theme/azen/inc/init.php:47
+msgctxt "Google font: on or off"
+msgid "on"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:195
+msgid "Sidebar"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:197
+msgid ""
+"Position on the left or right of content. It will not show on shop page."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:206
+msgid "Menu Right"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:208
+msgid "Position on the menu right."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:216
+msgid "Top Bar"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:218
+msgid "Add widgets for top bar."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:226
+msgid "Footer"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:228 /svn/wp/Theme/azen/inc/init.php:237
+#: svn/wp/Theme/azen/inc/init.php:246
+msgid "Add widgets here."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:235
+msgid "Shop"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:244
+msgid "Slider before header"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:304
+msgid "Primary Menu"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:544
+msgid "Pingback:"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:544
+msgid "Edit"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:560
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:574
+msgid "reply"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:575
+msgid "edit"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:669 /svn/wp/Theme/azen/inc/init.php:676
+msgid "Blog"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/init.php:679
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/related-posts.php:24
+msgid "# RELATED POSTS"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/breadcrumb.php:43
+msgid "Home"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/breadcrumb.php:54
+msgid "Search Result"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/breadcrumb.php:56
+msgid "404 Not Found"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/template-tags.php:54
+#: svn/wp/Theme/azen/physc-builder/products/layout-3.php:9
+msgid "PREV"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/template-tags.php:55
+#: svn/wp/Theme/azen/physc-builder/products/layout-3.php:10
+msgid "NEXT"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/template-tags.php:61
+msgid "Load more"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/template-tags.php:128
+#: svn/wp/Theme/azen/physc-builder/testimonials/testimonials.php:61
+msgid "BY"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/template-tags.php:242
+msgid "Share: "
+msgstr ""
+
+#. Name of the template
+msgid "Comming Soon"
+msgstr ""
+
+#. Name of the template
+msgid "Home page 3"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#. Name of the template
+msgid "Home page 2"
+msgstr ""
+
+#. Name of the template
+msgid "Home page 6"
+msgstr ""
+
+#. Name of the template
+msgid "Home page 5"
+msgstr ""
+
+#. Name of the template
+msgid "Home page 4"
+msgstr ""
+
+#: svn/wp/Theme/azen/template-parts/content-single.php:38
+#: svn/wp/Theme/azen/template-parts/content-masonry.php:46
+#: svn/wp/Theme/azen/template-parts/content-page.php:18
+#: svn/wp/Theme/azen/template-parts/content.php:36
+#: svn/wp/Theme/azen/template-parts/content-search.php:34
+msgid "Pages:"
+msgstr ""
+
+#: svn/wp/Theme/azen/template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: svn/wp/Theme/azen/template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: svn/wp/Theme/azen/template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: svn/wp/Theme/azen/template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: svn/wp/Theme/azen/template-parts/content-search.php:36
+msgid "Read More"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:20
+msgid "Title color"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:27
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:64
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:36
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:19
+msgid "Layout"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:30
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:68
+msgid "Layout 1"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:31
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:69
+msgid "Layout 2"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:39
+msgid "Length Desc"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:47
+msgid "Speed"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/options-modules.php:70
+msgid "Layout 3"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:37
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:57
+msgid "Login"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:44
+msgid "Username or email address"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:49
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:101
+msgid "Password"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:60
+msgid "Remember me"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:64
+msgid "Lost your password?"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:77
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:111
+msgid "Register"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:86
+msgid "Username"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/myaccount/form-login.php:93
+msgid "Email address"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/checkout/review-order.php:26
+msgid "Product"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/checkout/review-order.php:59
+msgid "Subtotal"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/checkout/form-checkout.php:56
+msgid "Your order"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/cart/mini-cart.php:48
+msgid "Remove this item"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/cart/mini-cart.php:97
+msgid "No products in the cart."
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/single-product/product-image.php:41
+#: svn/wp/Theme/azen/woocommerce/single-product/product-image.php:73
+msgid "Placeholder"
+msgstr ""
+
+#. %s: Quantity.
+#: svn/wp/Theme/azen/woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: svn/wp/Theme/azen/woocommerce/loop/sale-flash.php:27
+msgid "Sale"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:11
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:21
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:32
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:40
+msgid "Using in Theme Option"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:12
+msgid "No Sidebar"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:13
+msgid "Left Sidebar"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:14
+msgid "Right Sidebar"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:16
+msgid "Custom Layout "
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:22
+msgid "Custom"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:23
+msgid "Custom Heading "
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:25
+msgid "Heading Background Image"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:26
+msgid "Heading Background Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:27
+msgid "Heading Text Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:28
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:98
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:44
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:107
+#: svn/wp/Theme/azen/inc/admin/options/display.php:72
+#: svn/wp/Theme/azen/inc/admin/options/display.php:143
+#: svn/wp/Theme/azen/inc/admin/options/display.php:215
+msgid "Hide Title"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:29
+msgid "Hide Description"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:33
+#: svn/wp/Theme/azen/inc/admin/options/display.php:50
+msgid "Standard"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:34
+#: svn/wp/Theme/azen/inc/admin/options/display.php:51
+msgid "Masonry"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/tax-meta.php:44
+#: svn/wp/Theme/azen/inc/admin/options/display.php:59
+msgid "Column"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:7
+msgid "Post Format: Gallery"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:12
+msgid "Images"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:19
+msgid "Post Format: Video"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:24
+msgid "Video URL or Embeded Code"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:31
+msgid "Post Format: Audio"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:36
+msgid "Audio URL or Embeded Code"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:43
+msgid "Post Format: Quote"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:48
+msgid "Quote"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:53
+msgid "Author"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:61
+msgid "Post Format: Link"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:66
+msgid "URL"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:71
+msgid "Text"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:80
+#: svn/wp/Theme/azen/inc/admin/options/display.php:3
+msgid "Display Settings"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:85
+msgid "Custom Featured Title Area?"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:90
+msgid "User Featured Title?"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:105
+msgid "Background Color Featured"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:110
+msgid "Text Color Featured"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:115
+msgid "Update images"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:119
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:139
+msgid "This will overwrite page layout settings in Theme Options"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:122
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:51
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:114
+msgid "Hide Breadcrumbs?"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:128
+msgid "Custom Layout"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:135
+msgid "Use Custom Layout?"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:143
+msgid "Select Layout"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/meta-boxes.php:154
+msgid "No Padding"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:41
+#: svn/wp/Theme/azen/inc/admin/options-config.php:42
+msgid "Theme Options"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:228
+#: svn/wp/Theme/azen/inc/admin/demo_importer/extension_demo_importer.php:271
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:230
+msgid "Before click button import demo please config image size of "
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:230
+msgid "WooCommerce"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:231
+msgid " with Main image width (600), Thumbnail width (380)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:232
+msgid " and of "
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:232
+msgid "Media"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options-config.php:233
+msgid " with Medium size (380x280)"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/posts/posts.php:92
+#: svn/wp/Theme/azen/physc-builder/posts/posts.php:128
+msgid "By"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:37
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:130
+msgid "New"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:40
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:133
+msgid "Hot"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:43
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:135
+msgid "Featured"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:45
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:137
+msgid "OnSale"
+msgstr ""
+
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:56
+#: svn/wp/Theme/azen/physc-builder/products-tab/products-tab.php:147
+msgid "All"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:11
+msgid "Body Font"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:12
+msgid "Specify the body font properties."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:28
+msgid "Title Font"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:44
+msgid "Font Size H1 (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:54
+msgid "Font Size H2 (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:64
+msgid "Font Size H3 (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:74
+msgid "Font Size H4 (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:84
+msgid "Font Size H5 (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:94
+msgid "Font Size H6 (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/typography.php:105
+msgid "Font Size Title Home Page"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:3
+msgid "Woo Settings"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:8
+msgid "Number of Products per Page"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:11
+msgid "Insert the number of posts to display per page."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:19
+msgid "Archive Product"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:26
+#: svn/wp/Theme/azen/inc/admin/options/display.php:28
+#: svn/wp/Theme/azen/inc/admin/options/display.php:116
+#: svn/wp/Theme/azen/inc/admin/options/display.php:188
+msgid "Select Layout Default"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:55
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:118
+#: svn/wp/Theme/azen/inc/admin/options/display.php:81
+#: svn/wp/Theme/azen/inc/admin/options/display.php:152
+#: svn/wp/Theme/azen/inc/admin/options/display.php:224
+msgid "Check this box to hide/unhide breadcrumbs"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:58
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:121
+#: svn/wp/Theme/azen/inc/admin/options/display.php:87
+#: svn/wp/Theme/azen/inc/admin/options/display.php:135
+#: svn/wp/Theme/azen/inc/admin/options/display.php:207
+msgid "Background Heading"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:61
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:124
+#: svn/wp/Theme/azen/inc/admin/options/display.php:138
+#: svn/wp/Theme/azen/inc/admin/options/display.php:210
+msgid "Enter URL or Upload an background heading file for header"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:64
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:127
+#: svn/wp/Theme/azen/inc/admin/options/display.php:91
+#: svn/wp/Theme/azen/inc/admin/options/display.php:157
+#: svn/wp/Theme/azen/inc/admin/options/display.php:229
+msgid "Background Heading Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:71
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:134
+#: svn/wp/Theme/azen/inc/admin/options/display.php:99
+#: svn/wp/Theme/azen/inc/admin/options/display.php:165
+#: svn/wp/Theme/azen/inc/admin/options/display.php:237
+msgid "Text Color Heading"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:83
+msgid "Single Product"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:91
+msgid "Number Related"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/woocommerce.php:100
+msgid "Column Related"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:5
+msgid "Header"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:11
+msgid "Logo"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:18
+msgid "Header Logo"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:19
+#: svn/wp/Theme/azen/inc/admin/options/header.php:26
+msgid "Enter URL or Upload an image file as your logo."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:25
+msgid "Header Logo Page 404"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:33
+msgid "Width Column Logo"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:43
+msgid "Width Column Logo Mobile"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:54
+msgid "Main Menu"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:61
+msgid "Main Menu Style"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:74
+msgid "Background header"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:84
+msgid "Main Menu Font"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:102
+msgid "Background Hover Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:110
+#: svn/wp/Theme/azen/inc/admin/options/header.php:160
+#: svn/wp/Theme/azen/inc/admin/options/header.php:207
+msgid "Text Hover Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:118
+msgid "Show Sticky Menu"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:120
+msgid "Yes"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:121
+msgid "No"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:130
+msgid "Sub Menu"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:137
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:12
+msgid "Background Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:145
+msgid "Sub Menu Font"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:169
+msgid "Mobile Menu"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:176
+msgid "Color Hamburger icon"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:184
+msgid "Background Item Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:191
+msgid "Background Sub Item Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:199
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:19
+msgid "Text Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:214
+msgid "Border Item Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:224
+msgid "Top bar"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:231
+msgid "Background Top Bar Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:239
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:246
+msgid "Text Top Bar Hover Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/header.php:253
+msgid "Font Size Top Bar(px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:10
+msgid "Excerpt Length"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:11
+msgid ""
+"Enter the number of words you want to cut from the content to be the excerpt "
+"of search and archive"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:21
+msgid "Archive Settings"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:48
+msgid "Select Style"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:73
+#: svn/wp/Theme/azen/inc/admin/options/display.php:144
+#: svn/wp/Theme/azen/inc/admin/options/display.php:216
+msgid "Check this box to hide/unhide title"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:80
+#: svn/wp/Theme/azen/inc/admin/options/display.php:151
+#: svn/wp/Theme/azen/inc/admin/options/display.php:223
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:88
+msgid "Enter URL or Upload an background image file for header"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:109
+msgid "Post Settings"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:174
+msgid "Show Related Post"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:181
+msgid "Page Settings"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:247
+msgid "Page 404 Settings"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/display.php:254
+msgid "Background 404"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:4
+msgid "Footer Area"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:26
+msgid "Link Hover Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:33
+msgid "Title Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:40
+msgid "Font Size Title (px)"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:48
+msgid "Back To Top"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:52
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:13
+msgid "show"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/footer.php:53
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:14
+msgid "hide"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/social-share.php:3
+msgid "Social Sharing"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/social-share.php:10
+msgid "Facebook"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/social-share.php:16
+msgid "Twitter"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/social-share.php:22
+msgid "Google Plus"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/social-share.php:28
+msgid "Pinterest"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/social-share.php:34
+msgid "Instagram"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/custom-css.php:4
+msgid "Custom Css"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/custom-css.php:11
+msgid "CSS Code"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/custom-css.php:12
+msgid "Paste your CSS code here."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:5
+msgid "Styling"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:9
+msgid "Preloading"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:21
+msgid "Boxed"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:22
+msgid "Wide"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:30
+msgid "Background Pattern"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:31
+msgid "select background pattern"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:79
+msgid "Body Background"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:80
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:89
+msgid "Theme Primary Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:96
+msgid "Background Button Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:103
+msgid "Text Color Button"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/options/styling.php:124
+msgid "Background Sale Color"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/extension_demo_importer.php:238
+msgid "Demo Already Imported"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/extension_demo_importer.php:264
+#: svn/wp/Theme/azen/inc/admin/demo_importer/extension_demo_importer.php:266
+msgid "Demo Importer"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:95
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:116
+msgid "Import Demo"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:99
+msgid "Demo Imported"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:116
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:119
+msgid "Please Wait..."
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:118
+msgid "Imported"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:120
+msgid "Re-Import"
+msgstr ""
+
+#: svn/wp/Theme/azen/inc/admin/demo_importer/inc/field_demo_importer.php:129
+msgid "No Demo Data Provided"
+msgstr ""
+
+#. Name of the theme
+msgid "Azen"
+msgstr ""
+
+#. Description of the theme
+msgid "Theme is specially created for building the website shop"
+msgstr ""
+
+#. URI of the theme
+msgid "http://azen.physcode.com/"
+msgstr ""
+
+#. Author of the theme
+msgid "PhysCode"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://physcode.com"
+msgstr ""

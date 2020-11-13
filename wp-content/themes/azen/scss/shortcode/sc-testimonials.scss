@@ -1,0 +1,35 @@
+.sc-testimonials {
+	.testimonials-detail {
+		i {
+			font-size:     50px;
+			margin-bottom:  45px;
+			margin-left:   2px;
+			color: #111111;
+		}
+		p {
+			font-size: 14px;
+			font-weight: 700;
+		}
+		h5 {
+			color:          #111111;
+ 			text-transform: uppercase;
+		}
+		margin-bottom: 30px;
+	}
+	.owl-dots {
+		button {
+			background:   transparent;
+			border:       1px solid #bebebe;
+			margin-right: 10px;
+			width:        15px;
+			height:       15px;
+			&.active {
+				background: #111111;
+				border:     1px solid #111111;
+			}
+			&:focus {
+				outline: none;
+			}
+		}
+	}
+}

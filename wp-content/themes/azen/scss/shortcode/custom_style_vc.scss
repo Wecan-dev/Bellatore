@@ -1,0 +1,117 @@
+.wpb_gallery {
+	.wpb_gallery_slides {
+		box-shadow:    0 0 0;
+		border:        none;
+		border-radius: 0;
+		ul.slides li a, &.wpb_slider_nivo a.nivo-imageLink {
+			position:       relative;
+			overflow:       hidden;
+			vertical-align: middle;
+			&:before,
+			&:after {
+				content:  '';
+				position: absolute;
+				top:      0;
+				bottom:   0;
+				right:    0;
+				left:     0;
+				@include transition((all .6s ease-in-out));
+			}
+			&:hover {
+				&:before {
+					right:      50%;
+					left:       50%;
+					background: rgba(255, 255, 255, 0.2);
+				}
+				&:after {
+					top:        50%;
+					bottom:     50%;
+					background: rgba(255, 255, 255, 0.2);
+				}
+			}
+		}
+		&.wpb_flexslider {
+			margin-bottom: 20px;
+			.flex-control-paging {
+				display: none;
+			}
+			.flex-direction-nav {
+				li {
+					a {
+						padding:    0 15px !important;
+						background: #fff;
+						font-size:  0;
+						width:      auto;
+						height:     auto;
+						margin-top: -16px;
+						&:before {
+							display:        inline-block;
+							font:           normal normal normal 20px/32px 'Material-Design-Iconic-Font';
+							content:        '\f301';
+							vertical-align: middle;
+							text-shadow:    0 0 0;
+						}
+						&:hover {
+							color:      #fff;
+							background: #111;
+						}
+					}
+					.flex-prev {
+						left:    0;
+						opacity: 1;
+						&:before {
+							content: '\f2ff';
+						}
+					}
+					.flex-next {
+						right:   0;
+						opacity: 1;
+
+					}
+				}
+			}
+		}
+		&.wpb_slider_nivo {
+			.nivoSlider {
+				box-shadow: 0 0 0;
+			}
+			.nivo-controlNav {
+				display: none;
+			}
+			.nivo-directionNav {
+				a {
+					text-indent: 0;
+					font-size:   0;
+					padding:     0 15px !important;
+					background:  #fff;
+					width:       auto;
+					height:      auto;
+					margin-top:  -16px;
+					opacity:     1;
+					top:         50%;
+					&:before {
+						display:        inline-block;
+						font:           normal normal normal 20px/32px 'Material-Design-Iconic-Font';
+						content:        '\f301';
+						vertical-align: middle;
+						text-shadow:    0 0 0;
+					}
+					&:hover {
+						color:      #fff;
+						background: #111;
+					}
+				}
+				.nivo-prevNav {
+					left: 0;
+					&:before {
+						content: '\f2ff';
+					}
+				}
+				.nivo-nextNav {
+					right: 0;
+
+				}
+			}
+		}
+	}
+}

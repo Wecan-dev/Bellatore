@@ -1,0 +1,31 @@
+.vc_progress_bar.wpb_content_element .vc_single_bar {
+	border-radius: 0;
+	margin-top:    50px;
+	height:        10px;
+	background:    transparent;
+	box-shadow:    0 0 0;
+	border:        1px solid #666;
+	.vc_label {
+		top:       - 30px;
+		left:      0;
+		right:     0;
+		padding:   0;
+		font-size: 100%;
+		.vc_label_units {
+			float: right;
+		}
+	}
+	.vc_bar {
+		background:    #666;
+		border-radius: 0;
+	}
+}
+
+.wpb_heading.wpb_progress_bar_heading {
+	@extend special-heading;
+	text-align: left;
+	&:before {
+		left:        0;
+		margin-left: 0;
+	}
+}

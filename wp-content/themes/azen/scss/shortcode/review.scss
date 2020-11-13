@@ -1,0 +1,75 @@
+.reviews-product {
+	.sc-reviews {
+		.item {
+			background: #fff;
+			margin-top: 80px;
+		}
+		.author-name {
+			margin-bottom: 15px;
+		}
+		.avatar-author {
+			border-radius: 50%;
+			overflow:      hidden;
+			width:         150px;
+			margin:        0 auto -70px auto;
+			@include transform(translateY(-50%));
+		}
+		.entry-content {
+			max-width:  960px;
+			padding:    20px 20px 50px 20px;
+			margin:     0 auto;
+			text-align: center;
+			.item_rating {
+				margin-bottom: 25px;
+				.star-rating {
+					float:  none;
+					margin: 0 auto;
+				}
+			}
+
+		}
+		@include breakpoint(768) {
+			.avatar-author {
+				width:         120px;
+				margin-bottom: -55px;
+			}
+			.entry-content .des {
+				overflow:           hidden;
+				text-overflow:      ellipsis;
+				display:            -webkit-box;
+				-webkit-line-clamp: 4;
+				-webkit-box-orient: vertical;
+			}
+		}
+	}
+	.owl-dots {
+		position:   absolute;
+		bottom:     -10px;
+		left:       0;
+		right:      0;
+		text-align: center;
+		.owl-dot {
+			display:            inline-block;
+			width:              7px;
+			height:             7px;
+			background:         #ccc;
+			line-height:        1;
+			border-radius:      50%;
+			margin:             0 3px;
+			border:             2px solid #fff;
+			padding:            10px;
+			box-sizing:         content-box;
+			-webkit-box-sizing: content-box;
+			-moz-box-sizing:    content-box;
+			&:focus {
+				outline: none;
+			}
+			&.active {
+				border: 2px solid #ccc;
+			}
+		}
+		.owl-dot span {
+			display: inline-block;
+		}
+	}
+}

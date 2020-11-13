@@ -1,0 +1,185 @@
+/* End Slider Revolution Section */
+
+/* Categories Section */
+.categories-hp-1.section-box {
+	padding-bottom: 111px;
+}
+
+.categories-hp-1 {
+	.categories-detail {
+		position: relative;
+		.images {
+			overflow: hidden;
+			img {
+				@include transition(transform 0.6s cubic-bezier(.25, .46, .45, .94));
+			}
+		}
+		.product {
+			position:   absolute;
+			left:       0;
+			bottom:     20px;
+			background: #fff;
+			a {
+				padding: 7.5px 20px;
+				&:hover {
+					color: #111;
+				}
+			}
+			.name {
+				font-size:   18px;
+				font-weight: 500;
+			}
+			.quantity {
+				display: none;
+				color:   #666;
+			}
+			&:hover {
+				.line {
+					display: none;
+				}
+				.quantity {
+					display: inline-block;
+				}
+			}
+		}
+		&:hover {
+			.images {
+				img {
+					@include transform(scale(1.1));
+				}
+			}
+		}
+	}
+}
+
+/* End Categories Section */
+
+/* Featured Sale Section */
+.featured-layout-1 {
+	.view-all {
+		text-align: center;
+		padding:    30px 0 120px;
+		@include breakpoint(768) {
+			padding-bottom: 50px;
+		}
+		.btn-small {
+			padding: 17px 35.5px;
+		}
+		i {
+			padding-left: 9px;
+		}
+	}
+}
+
+/* Testimonials Section */
+.testimonials-hp-azen {
+	.testimonials-content {
+		//margin:     0 -150px;
+		background: #f7f7f7;
+	}
+	.owl-carousel {
+		&.owl-theme {
+			.owl-dots,
+			.owl-thumbs {
+				display: none;
+			}
+			.owl-nav {
+				position:   absolute;
+				width:      42%;
+				left:       42%;
+				top:        50%;
+				@include transform(translateY(-50%));
+				@extend display-flex;
+				@include justify-content(space-between);
+				margin-top: 0;
+				[class*=owl-] {
+					margin:    0;
+					font-size: 30px;
+					color:     #999;
+					@include outline(none);
+					@include border-radius(0);
+					&:hover {
+						background: transparent;
+						color:      #111;
+					}
+				}
+			}
+		}
+		.item {
+			.right-block {
+				padding-right: 300px;
+			}
+			.left-block {
+				padding-left: 250px;
+				.images {
+					padding-right: 25px;
+				}
+				&.left-block-2 {
+					padding-left: 272px;
+					margin:       13px 0 -13px;
+					.images {
+						padding-right: 0px;
+						margin-right:  -38px;
+					}
+				}
+			}
+			.testimonials-detail {
+				padding:    149px 65px 135px 85px;
+				text-align: center;
+				i {
+					font-size: 90px;
+				}
+				p {
+					margin-top: 7px;
+				}
+				h5 {
+					font-size: 20px;
+					padding:   38px 0 4px;
+				}
+			}
+		}
+	}
+}
+
+/* End Testimonials Section */
+
+/* Insta Follow Section */
+.null-instagram-feed {
+	text-align: center;
+	.clear a {
+		color:     #999;
+		display:   block;
+		font-size: 1.2em;
+	}
+	.instagram-pics {
+		margin: 0 -7px;
+		@include clearfix();
+		li {
+			list-style: none;
+			width:      20%;
+			float:      left;
+			padding:    7px;
+			cursor:     pointer;
+			a {
+				position: relative;
+				&:before {
+					content:    "";
+					position:   absolute;
+					background: rgba(0, 0, 0, 0.2);
+					top:        0;
+					bottom:     0;
+					left:       0;
+					right:      0;
+					opacity:    0;
+				}
+				&:hover {
+					&:before {
+						opacity: 1;
+					}
+				}
+			}
+		}
+	}
+}
+
+/* End Insta Follow Section */

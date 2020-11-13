@@ -1,0 +1,69 @@
+@import "infor-theme";
+/* [Table of contents]
+	1. Minxi
+	2. Extend
+	3. Global
+	4. Header
+	5. Footer
+	6. Homepage
+	7. Pages
+	8. Shop
+	9. Blog
+	10. Portfolio
+	11. Elements
+ 	12. Responsive
+ 	-------------------------------------------------------------------*/
+@import 'reset.scss';
+@import "base/variable.scss";
+@import "base/mixin.scss";
+@import 'common/minxi.scss';
+/* 2. Extend ------------------------------------------------------------ */
+@import 'common/extend.scss';
+/* 3. Global ------------------------------------------------------------ */
+@import 'common/global.scss';
+/* 4. Header ------------------------------------------------------------ */
+@import 'layouts/header.scss';
+/* 5. Footer ------------------------------------------------------------ */
+@import 'layouts/footer.scss';
+/* Landing ------------------------------------------------------------*/
+/* 7. Pages ------------------------------------------------------------ */
+@import 'layouts/page/pages/contact.scss';
+@import 'layouts/page/pages/page-not-found.scss';
+@import 'layouts/page/pages/coming-soon.scss';
+/* 8. Shop ------------------------------------------------------------ */
+@import 'layouts/page/shop/types.scss';
+@import 'layouts/page/shop/pages.scss';
+@import 'woocommerce/contentProduct.scss';
+@import 'woocommerce/mini-cart.scss';
+@import 'woocommerce/woocommerce.scss';
+@import 'woocommerce/woocommerce-layout.scss';
+@import 'woocommerce/quickview.scss';
+/* 9. Blog ------------------------------------------------------------ */
+@import 'layouts/page/blog/standard.scss';
+@import 'layouts/page/blog/types.scss';
+/* 11. Elements ------------------------------------------------------------ */
+@import 'layouts/page/elements/element.scss';
+@import 'shortcode/wc-product.scss';
+@import 'shortcode/banner-html.scss';
+@import 'shortcode/custom_style_vc.scss';
+@import 'shortcode/social-links.scss';
+@import 'shortcode/vc_progress_bar.scss';
+@import 'shortcode/sc-testimonials.scss';
+@import 'shortcode/countdown.scss';
+@import 'shortcode/posts.scss';
+@import 'shortcode/ourteam.scss';
+@import 'shortcode/review.scss';
+@import 'widget/post.scss';
+@import 'sidebar.scss';
+@import 'flexslider.scss';
+@import 'owl-carousel.scss';
+@import 'comments-area.scss';
+@import 'elementor.scss';
+@import 'template.scss';
+/* 12. Responsive ------------------------------------------------------------ */
+@import 'layouts/responsive.scss';
+
+
+
+
+
